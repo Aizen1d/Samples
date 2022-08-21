@@ -8,4 +8,3 @@ def mid(string):
         return string[middle]
 
 print(mid("abc"))
-#try
